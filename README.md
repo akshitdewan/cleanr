@@ -5,7 +5,7 @@ Your camera roll's own garbage collector. A categorization app that looks throug
 
 First, start the server by running:
 
-export FLASK_APP=server.py
-flask run
+######export FLASK_APP=server.py
+######flask run
 
 Then, start the iOS app on XCode. Hit import and then analyze to view the results!
