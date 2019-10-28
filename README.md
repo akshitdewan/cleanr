@@ -9,3 +9,5 @@ First, start the server by running:
 ##### flask run
 
 Then, start the iOS app on XCode. Hit import and then analyze to view the results!
+
+Note: the iOS app can only be run on the simulator because the server is running locally on the computer.
